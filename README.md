@@ -5,8 +5,11 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Bryant To: https://github.com/bryantto08
+
 Matthew Cheng: https://github.com/mattchng
+
 Jasmine Fan: https://github.com/jasmine7310
+
 Franyel Diaz Rodriguez: https://github.com/Franyel1
 
 ## Stakeholders
