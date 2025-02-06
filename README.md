@@ -13,20 +13,34 @@ Jasmine Fan: https://github.com/jasmine7310
 Franyel Diaz Rodriguez: https://github.com/Franyel1
 
 ## Stakeholders
+We interviewed Emily S., a university student who is a fomer track and field runner, but now she does soccer and running for fun.
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Desires:
+- Map
+- We discussed the possibility of our app being a discovery- type app, where the user runs around the area and it unlocks parts of the map, kind of like a game
+- As the user runs around more, the map clears up
+- Distance tracking
+- Pace, telling user to run faster/ slower
+- Accurate weather predictions
+- Air quality data
 
-Interview at least one person who is a good representative of the type of person for whom you are designing an app. Ask them questions about their goals, needs and desires. Find out problems and frustrations they have that a mobile app might be able to help with. You should be able to identify at least four goals/needs and four problems/frustrations.
+Frustrations:
+- Time tracker
+    - Emily said that she always forgets to stop her stopwatch, so her time data isn’t always accurate
+    - Maybe automatic clock stopper that checks pace, when user stops walking/ running clock pauses/ stops
+- No pattern summary
+    - Emily would like to see her main trends summarized, maybe we could do a weekly summary
+- Don’t know places to run: Exploration (routes, sightseeing, places safe to run) 
+    - For this one I’m thinking of something maybe like in Pokemon GO, where there’s points for landmarks & routes for users to walk on
+    - Maybe users can create & save their own routes
+- Improvement keeper
+    - See what goals/ achievements Emily has made over the years (ex: comparing her 2023 running with her 2024 running)
+    - Maybe we could have a function that sets goals and can be completed
 
-Write details about your stakeholder(s) and their goals and furstrations into the [README.md](./README.md) file in the appropriate place.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
-
-Once your stakeholder has been interviewed, your team and they must settle on a foundational **Product Vision Statement** - a single sentence explaining the main concept of the app. The rest of your work will be based on this statement.
-
-Write this Product Vision Statement into the `README.md` file in the appropriate place.
+To motivate and track your running process through a game-ified running tracking app, helping you explore your neighborhood and to make it more fun.
 
 ## User Requirements
 
