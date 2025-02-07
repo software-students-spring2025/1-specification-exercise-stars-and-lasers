@@ -46,11 +46,9 @@ To motivate and track your running process through a game-ified running tracking
 
 See instructions. Delete this line and place a list of your User Stories here.
 
-Develop user requirements for your proposed application idea. These will take the form of "user stories" - short, simple descriptions of a product feature told from the perspective of the person who wants it.
-
-User stories follow the template,"`As a [type of user], I want [some goal] so that [some reason].`", where `[type of user]`, `[some goal]` and `[some reason]` are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.
-
-Write at least 10 user stories into the `README.md` file in the appropriate place.
+### User Stories
+1. As a user, I want to view a map of my location so I can explore different routes while walking.
+2. As a user, I want to view statistics about my activities so I can track how often/how much I've walked.
 
 ## Activity Diagrams
 
