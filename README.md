@@ -52,11 +52,16 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### Activity Diagram for Managing Goals
+![img for activity diagram goals](/img/activity_goals.png)
+* User Story: As a user, I want to set weekly goals and personalized achievements so I can stay motivated and track my progress.
 
-Draw UML Activity Diagrams showing how a user uses the app to fulfill two of the user stories, from start to finish.
+### Activity Diagram for Viewing Current Route
+![img for activity diagram route](/img/activity_route.png)
+* User Story: As a user, I want my running to be more interactive so I can be more immersed in my exercise.
 
-For each diagram, place the text of the corresponding user story and an image of the Activity Diagram into the `README.md` file in the appropriate place.
+### Site Map
+![img for site map](/img/site_map.png)
 
 ## Wireframe Diagrams
 
