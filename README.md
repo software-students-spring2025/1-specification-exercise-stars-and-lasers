@@ -49,6 +49,9 @@ See instructions. Delete this line and place a list of your User Stories here.
 ### User Stories
 1. As a user, I want to view a map of my location so I can explore different routes while walking.
 2. As a user, I want to view statistics about my activities so I can track how often/how much I've walked.
+3. As a user, I want a one tap start button for my runs so I can begin tracking in the background quickly.
+4. As a user, I want the app to suggest new running routes based on my past activity and friends’ activity so I can explore different areas and maybe see friends currently running.
+5. As a user, I want to set weekly goals and personalized achievements so I can stay motivated and track my progress.
 
 ## Activity Diagrams
 
