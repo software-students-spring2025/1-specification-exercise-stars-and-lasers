@@ -16,9 +16,9 @@ Franyel Diaz Rodriguez: https://github.com/Franyel1
 We interviewed Emily S., a university student who is a fomer track and field runner, but now she does soccer and running for fun.
 
 Desires:
-- Map
-- We discussed the possibility of our app being a discovery- type app, where the user runs around the area and it unlocks parts of the map, kind of like a game
-- As the user runs around more, the map clears up
+- A map for easy navigation and visualization of routes
+-   We discussed the possibility of our app being a discovery- type app, where the user runs around the area and it unlocks parts of the map, kind of like a game.
+-   As the user runs around more, the map clears up.
 - Distance tracking
 - Pace, telling user to run faster/ slower
 - Accurate weather predictions
@@ -26,16 +26,16 @@ Desires:
 
 Frustrations:
 - Time tracker
-    - Emily said that she always forgets to stop her stopwatch, so her time data isn’t always accurate
-    - Maybe automatic clock stopper that checks pace, when user stops walking/ running clock pauses/ stops
+    - Emily said that she always forgets to stop her stopwatch, so her time data isn’t always accurate.
+    - Maybe an automatic clock stopper that checks pace, when user stops walking/ running clock pauses/ stops.
 - No pattern summary
-    - Emily would like to see her main trends summarized, maybe we could do a weekly summary
+    - Emily would like to see her main trends summarized, maybe we could do a weekly summary.
 - Don’t know places to run: Exploration (routes, sightseeing, places safe to run) 
-    - For this one I’m thinking of something maybe like in Pokemon GO, where there’s points for landmarks & routes for users to walk on
-    - Maybe users can create & save their own routes
+    - Something like in Pokemon GO, where there’s points for landmarks and routes for users to walk on.
+    - Maybe users can create and save their own routes.
 - Improvement keeper
-    - See what goals/ achievements Emily has made over the years (ex: comparing her 2023 running with her 2024 running)
-    - Maybe we could have a function that sets goals and can be completed
+    - See what goals/ achievements Emily has made over the years (ex: comparing her 2023 running with her 2024 running).
+    - Maybe have a function that sets goals and can be completed.
 
 
 ## Product Vision Statement
@@ -52,6 +52,9 @@ See instructions. Delete this line and place a list of your User Stories here.
 3. As a user, I want a one tap start button for my runs so I can begin tracking in the background quickly.
 4. As a user, I want the app to suggest new running routes based on my past activity and friends’ activity so I can explore different areas and maybe see friends currently running.
 5. As a user, I want to set weekly goals and personalized achievements so I can stay motivated and track my progress.
+6. As a user, I want to keep my running pace so that I will not overexert myself.
+7. As a user, I want to keep an accurate log of my run time so I can see how much time I have dedicated to running/ exercising.
+8. As a user, I want to know the air quality of my area before I run so that I know if I should run inside or outside today.
 
 ## Activity Diagrams
 
