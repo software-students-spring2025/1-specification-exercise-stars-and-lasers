@@ -55,6 +55,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 6. As a user, I want to keep my running pace so that I will not overexert myself.
 7. As a user, I want to keep an accurate log of my run time so I can see how much time I have dedicated to running/ exercising.
 8. As a user, I want to know the air quality of my area before I run so that I know if I should run inside or outside today.
+9. As a user, I want my running to be more interesting and interactive so I can be more immersed in my exercise
+10. As a user, I want to motivation stay consistent so I can continue improving my running skills and strength
 
 ## Activity Diagrams
 
@@ -71,14 +73,9 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Wireframe Diagrams
 
-Create a set of wireframe diagrams representing every screen of the application. Wireframes are black-and-white diagrams that show the general layout of the screen, and the content that appears on each screen, but not the actual colors, images, fonts, or other visual design elements that will be used in the final product.
+![Wireframe Diagrams](/img/Wireframes%201.png.png)
+![Additional Wireframe Diagrams](/img/Wireframes%202.png.png)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
-
-Convert the wireframe diagrams into a clickable prototype. These should be complete: every link or button in the prototype should take the user to the next screen in the flow; every place where actual content will go on each screen (i.e. every bit of text, image, or video) should be represented in the wireframe diagrams used in the clickable prototype. Use as little real-looking text as possible to make it obvious what will be written in the text blocks of the final product, while not showing so much that it distracts from the abstract purpose of the wireframe diagrams.
-
-By using the clickable prototype, a non-technical person who is not closely involved with the project should be able to understand what the application is and how it works. Nothing should be left to the imagination.
-
-Place a link to the published clickable prototype in the `README.md` file in the appropriate place. The link must not require a user to log in to view the prototype.
+[Clickable Prototype Link](https://www.figma.com/proto/DHFxXXBRxxUXYprkxZIaco/stars-and-lasers?node-id=15-2&p=f&t=J4HVZCIz9WIId45D-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
