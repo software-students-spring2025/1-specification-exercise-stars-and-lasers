@@ -74,6 +74,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Wireframe Diagrams
 
 ![Wireframe Diagrams](/img/wireframes_1.png)
+
 ![Additional Wireframe Diagrams](/img/wireframes_2.png)
 
 ## Clickable Prototype
