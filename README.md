@@ -1,4 +1,4 @@
-# Specification Phase Exercise
+# Specification Phase Exercise: keepUP App
 
 ## Team members
 
@@ -11,7 +11,6 @@ Jasmine Fan: https://github.com/jasmine7310
 Franyel Diaz Rodriguez: https://github.com/Franyel1
 
 ## Stakeholders
-
 We interviewed Emily S., a university student who is a former track and field runner, but now she does soccer and running for fun.
 
 Desires:
