@@ -1,4 +1,4 @@
-# Specification Phase Exercise
+# Specification Phase Exercise: keepUP App
 
 ## Team members
 
