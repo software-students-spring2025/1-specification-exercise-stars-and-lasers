@@ -11,7 +11,7 @@ Jasmine Fan: https://github.com/jasmine7310
 Franyel Diaz Rodriguez: https://github.com/Franyel1
 
 ## Stakeholders
-We interviewed Emily S., a university student who is a former track and field runner, but now she does soccer and running for fun.
+We interviewed Emily S., a university student who is a fomer track and field runner, but now she does soccer and running for fun.
 
 Desires:
 - A map for easy navigation and visualization of routes
@@ -41,8 +41,6 @@ Frustrations:
 To motivate and track your running process through a game-ified running tracking app, helping you explore your neighborhood and to make it more fun.
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
 
 ### User Stories
 1. As a user, I want to view a map of my location so I can explore different routes while walking.
