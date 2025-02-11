@@ -17,7 +17,7 @@
 > We interviewed Emily S., a university student who is a former track and field runner, but now she does soccer and running for fun.
 
 ### Desires:
---- 
+___
  Emily discussed how she desired the basics of a usual running tracker app for this project. Her main points are:
  - **Map**: To see where she is running/ walking and what route she is on.
  - **Distance Tracking**: To see how much/ far she has ran/ walked.
