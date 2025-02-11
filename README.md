@@ -17,7 +17,6 @@
 > We interviewed Emily S., a university student who is a former track and field runner, but now she does soccer and running for fun.
 
 ### Desires:
-- - - 
  Emily discussed how she desired the basics of a usual running tracker app for this project. Her main points are:
  - **Map**: To see where she is running/ walking and what route she is on.
  - **Distance Tracking**: To see how much/ far she has ran/ walked.
@@ -44,9 +43,9 @@
 - Air quality data 
 </details>
 
+___
 
 ### Frustrations:
-- - - 
 Emily also shared some frustrations she had with normal running/ walking tracking apps. Here are some of her frustrations below:
 - **Incorrect Time Data**: Emily said that she always forgets to stop her stopwatch, so her time data isn’t always accurate.
 - **No Pattern Summary**: Emily would like to see her main trends summarized, her current tracking app that she uses does not summarize her weekly progress.
