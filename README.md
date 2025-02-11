@@ -53,7 +53,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 ### Activity Diagram for Managing Goals
-![img for activity diagram goals](/img/activity_goals.png)
+![img for activity diagram goals](/img/activity_goalsv2.png)
 * User Story: As a user, I want to set weekly goals and personalized achievements so I can stay motivated and track my progress.
 
 ### Activity Diagram for Viewing Current Route
